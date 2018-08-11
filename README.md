@@ -1,0 +1,2 @@
+# Kryptiskt
+Kryptering enligt transpositionsprincipen
